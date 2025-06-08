@@ -1,6 +1,6 @@
 # 🧠 About Me
 
-Hey, I’m Tadiwanashe Chipungumberi (aka VIPERtips) — system developer focused on building backend systems that make sense.
+Hey, I’m Tadiwanashe Chipungumberi (aka VIPERtips) — system | software developer focused on building backend systems that make sense.
 
 - 🎯 Backend dev: Java | Spring Boot | APIs <br>
 - 🛠 Always cooking something new — currently rotating between GIS tools, finance dashboards, and education platforms<br>
