@@ -1,9 +1,9 @@
 # 🧠 About Me
 
-Hey, I’m Tadiwa Chipungu (aka VIPERtips) — system developer focused on building backend systems that make sense.
+Hey, I’m Tadiwanashe Chipungumberi (aka VIPERtips) — system developer focused on building backend systems that make sense.
 
 - 🎯 Backend dev: Java | Spring Boot | APIs <br>
-- 🛠 Always cooking something new — currently rotating between GIS tools, finance dashboards, and education platforms
+- 🛠 Always cooking something new — currently rotating between GIS tools, finance dashboards, and education platforms<br>
 - 🤝 Open to remote or onsite collabs, especially Spring Boot projects
 - 🧍‍♂️ Not as quiet as I look — catch me deep in code or clowning with the squad
 
